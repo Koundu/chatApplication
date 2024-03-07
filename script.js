@@ -1,0 +1,1 @@
+console.log("Intialization of Chat Application");
